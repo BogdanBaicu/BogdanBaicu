@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #
 
 ### 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=BogdanBaicu&count_private=true&show_icons=true&theme=transparent" alt="Profile Card"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanBaicu&layout=compact&theme=transparent&card_width=260" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=BogdanBaicu&count_private=true&show_icons=true&theme=transparent&card_width=400" alt="Profile Card"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanBaicu&layout=compact&theme=transparent" alt="Most Used Languages">
 
 ![](https://komarev.com/ghpvc/?username=BogdanBaicu&style=for-the-badge&label=PROFILE+VIEWS)
 
