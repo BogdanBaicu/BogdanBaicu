@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=0A66C2&logo=Yahoo&logoColor=FFFFFF&label="</img> 
 </a>
 
-<a href="https://www.linkedin.com/in//"> 
+<a href="https://www.linkedin.com/in/bogdan-baicu/"> 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="</img> 
 </a>
 
-<a href="https://www.linkedin.com/in//"> 
+<a href="https://www.linkedin.com/in/bogdan-baicu/"> 
 <img src="https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=windows-terminal&logoColor=ffffff"</img> 
 </a>
