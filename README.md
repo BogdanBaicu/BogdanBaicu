@@ -29,6 +29,16 @@ Here are some ideas to get you started:
 
 #
 
+### 💻 Projects
+<a href="https://github.com/BogdanBaicu/C-Text-Editor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=C-Text-Editor&theme=transparent" />
+</a>
+<a href="https://github.com/BogdanBaicu/Library-REST-API">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=Library-REST-API&theme=transparent" />
+</a>  
+
+#
+
 ### 🧰 Languages, IDEs and Tools
 <img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
