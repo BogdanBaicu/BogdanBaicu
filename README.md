@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #
 
 ### 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=BogdanBaicu&count_private=true&show_icons=true&theme=transparent&card_width=400" alt="Profile Card"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanBaicu&layout=compact&theme=transparent" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=BogdanBaicu&count_private=true&show_icons=true&theme=transparent&card_width=400" alt="Profile Card"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanBaicu&layout=compact&hide=shell&theme=transparent" alt="Most Used Languages">
 
 <!--![](https://komarev.com/ghpvc/?username=BogdanBaicu&style=for-the-badge&label=PROFILE+VIEWS)-->
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=C-Text-Editor&theme=transparent" />
 </a>
 <a href="https://github.com/BogdanBaicu/Library-REST-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=Library-REST-API&hide=shell&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=Library-REST-API&theme=transparent" />
 </a>  
 
 #
