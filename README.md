@@ -36,6 +36,15 @@ Here are some ideas to get you started:
 <a href="https://github.com/BogdanBaicu/Library-REST-API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=Library-REST-API&theme=transparent" />
 </a>  
+<a href="https://github.com/BogdanBaicu/Tic-Tac-Toe-Tree">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=Tic-Tac-Toe-tree&theme=transparent" />
+</a>  
+<a href="https://github.com/BogdanBaicu/Multithreading-Order-Processing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=Multithreading-Order-Processing&theme=transparent" />
+</a>  
+<a href="https://github.com/BogdanBaicu/Perfect-Power-Processing-using-Map-Reduce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=Perfect-Power-Processing-using-Map-Reduce&theme=transparent" />
+</a>  
 
 #
 
