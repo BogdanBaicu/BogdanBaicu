@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=C-Text-Editor&theme=transparent" />
 </a>
 <a href="https://github.com/BogdanBaicu/Library-REST-API">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=Library-REST-API&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=Library-REST-API&hide=shell&theme=transparent" />
 </a>  
 
 #
