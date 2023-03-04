@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 #
 
 ### 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=BogdanBaicu&count_private=true&show_icons=true&theme=transparent&card_width=400" alt="Profile Card"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanBaicu&layout=compact&hide=shell&theme=transparent" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=BogdanBaicu&count_private=true&show_icons=true&theme=transparent&card_width=400" alt="Profile Card"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanBaicu&layout=compact&hide=shell,python&theme=transparent" alt="Most Used Languages">
 
 <!--![](https://komarev.com/ghpvc/?username=BogdanBaicu&style=for-the-badge&label=PROFILE+VIEWS)-->
 
@@ -38,6 +38,9 @@ Here are some ideas to get you started:
 </a>  
 <a href="https://github.com/BogdanBaicu/Tic-Tac-Toe-Tree">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=Tic-Tac-Toe-tree&theme=transparent" />
+</a>  
+<a href="https://github.com/BogdanBaicu/Linux-File-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=Linux-File-System&theme=transparent" />
 </a>  
 <a href="https://github.com/BogdanBaicu/Multithreading-Order-Processing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=Multithreading-Order-Processing&theme=transparent" />
@@ -78,6 +81,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="</img> 
 </a>
 
-<a href="https://www.linkedin.com/in/bogdan-baicu/"> 
+<a href="https://www.dropbox.com/s/n58pf24oeekfkag/CV.pdf?dl=0"> 
 <img src="https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=windows-terminal&logoColor=ffffff"</img> 
 </a>
