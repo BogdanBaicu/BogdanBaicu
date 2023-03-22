@@ -48,6 +48,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/BogdanBaicu/Perfect-Power-Processing-using-Map-Reduce">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=Perfect-Power-Processing-using-Map-Reduce&theme=transparent" />
 </a>  
+<a href="https://github.com/BogdanBaicu/OpenGL-Car-Racing-Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=OpenGL-Car-Racing-Game&theme=transparent" />
+</a>  
+<a href="https://github.com/BogdanBaicu/OpenGL-Duck-Hunt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=OpenGL-Duck-Hunt&theme=transparent" />
+</a>  
 
 #
 
