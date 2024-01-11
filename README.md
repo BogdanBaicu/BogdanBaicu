@@ -82,6 +82,13 @@ Here are some ideas to get you started:
 
 <br/>
 
+#### Currently learning
+
+<img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+
+<br/>
+
 #
 
 ### Reach out
