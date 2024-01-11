@@ -61,6 +61,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UndeDorm&repo=UndeDormReact&theme=transparent" />
 </a>  
 
+<a href="https://github.com/BogdanBaicu/Online-Games-Vue">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=Online-Games-Vue&theme=transparent" />
+</a>  
+
 #
 
 ### 🧰 Languages, IDEs and Tools
