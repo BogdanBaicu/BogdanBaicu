@@ -90,6 +90,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Kotlin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 <img align="left" alt="AndroidStudio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<img align="left" alt="AndroidStudio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
 
 <br/>
 
