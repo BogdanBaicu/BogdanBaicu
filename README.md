@@ -114,6 +114,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label="</img> 
 </a>
 
-<a href="https://www.dropbox.com/s/n58pf24oeekfkag/CV.pdf?dl=0"> 
+<a href="https://www.dropbox.com/scl/fi/q4rnxogok9ltt86s21otb/CV_2025.pdf"> 
 <img src="https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=windows-terminal&logoColor=ffffff"</img> 
 </a>
