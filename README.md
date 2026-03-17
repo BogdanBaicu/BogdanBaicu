@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Bogdan
 
-👩🏻‍🎓 I'm a Computer Science student @ University POLITEHNICA of Bucharest, planning to graduate in 2024.
+👩🏻‍🎓 Computer Science graduate @ University POLITEHNICA of Bucharest
 
 #
 
