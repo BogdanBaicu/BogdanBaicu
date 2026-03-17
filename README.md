@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 #
 
 ### 💻 Projects
+<a href="https://github.com/BogdanBaicu/AeroGo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=AeroGo&theme=transparent" />
+</a>
 <a href="https://github.com/BogdanBaicu/C-Text-Editor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BogdanBaicu&repo=C-Text-Editor&theme=transparent" />
 </a>
@@ -79,6 +82,10 @@ Here are some ideas to get you started:
 <img align="left" alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" />
 <img align="left" alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Kotlin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img align="left" alt="JetpackCompose" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
+<img align="left" alt="AndroidStudio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+
 
 <img align="left" alt="Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="VisualStudio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
@@ -91,16 +98,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-
-
-#### Currently learning
-
-<img align="left" alt="Kotlin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-<img align="left" alt="JetpackCompose" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
-<img align="left" alt="AndroidStudio" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-
-<br/>
-
 
 #
 
